@@ -15,6 +15,6 @@ weight = 60
 
 +++
 
-![Landscape](/img/Ink_Landscape.jpg)
+![Etching](/img/Running.jpg)
 
 For any inquiries about prints, you can contact me via email.

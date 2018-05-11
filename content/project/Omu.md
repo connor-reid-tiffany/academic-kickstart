@@ -11,6 +11,10 @@ external_link = "https://github.com/connor-reid-tiffany/Omu"
 # Does the project detail page use math formatting?
 math = false
 tags = ["metabolomics"]
+
+[header]
+image = "https://github.com/connor-reid-tiffany/academic-kickstart/blob/master/static/img/Egg.jpg"
+caption = ""
 +++
 
 # Omu

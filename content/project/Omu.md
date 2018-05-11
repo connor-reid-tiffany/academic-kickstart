@@ -12,8 +12,10 @@ external_link = "https://github.com/connor-reid-tiffany/Omu"
 math = false
 tags = ["metabolomics"]
 
+image_preview = "Egg.jpg"
+
 [header]
-image = "https://github.com/connor-reid-tiffany/academic-kickstart/blob/master/static/img/Egg.jpg"
+image = "/img/Egg.jpg"
 caption = ""
 +++
 
